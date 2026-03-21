@@ -69,17 +69,6 @@ Building scalable web applications with clean architecture & real-world impact
 
 ---
 
-### 🏢 Enterprise Web Application
-
-> ASP.NET + SQL Server
-
-* Role-based authentication
-* Admin dashboard
-* Full CRUD operations
-* Clean architecture approach
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
