@@ -28,6 +28,7 @@ Building scalable web applications with clean architecture & real-world impact
 
 * ASP.NET Core, Web API, C#
 * Node.js
+* Python (API integration, scripting)
 * REST APIs, JWT Authentication, Microservices basics
 
 ### 🎨 Frontend
