@@ -7,7 +7,7 @@ Building scalable web applications with clean architecture & real-world impact
 
 <p align="center">
 <a href="https://linkedin.com/in/rachit-mundapi">LinkedIn</a> •
-<a href="https://rachitportfolio.free.nf/?i=1">Portfolio</a> •
+<a href="https://rachitportfolio.free.nf">Portfolio</a> •
 <a href="mailto:rachitmundapi99@gmail.com">Email</a>
 </p>
 
