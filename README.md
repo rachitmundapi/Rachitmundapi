@@ -73,9 +73,9 @@ Building scalable web applications with clean architecture & real-world impact
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rachit0710&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rachitmundapi&show_icons=true&theme=radical" />
 <br/>
-<img src="https://streak-stats.demolab.com?user=Rachit0710&theme=radical" />
+<img src="https://streak-stats.demolab.com?user=Rachitmundapi&theme=radical" />
 </p>
 
 ---
