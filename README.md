@@ -33,7 +33,7 @@ Building scalable web applications with clean architecture & real-world impact
 
 ### 🎨 Frontend
 
-* React.js, JavaScript (ES6+)
+* React.js, JavaScript (ES6+) / TypeScript , ReactNative
 * jQuery (Deep DOM understanding)
 * HTML5, CSS3
 
