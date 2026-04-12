@@ -99,7 +99,7 @@ Building scalable web applications with clean architecture & real-world impact
 ## 📫 Let's Connect
 
 * 💼 LinkedIn: https://linkedin.com/in/rachit-mundapi
-* 🌐 Portfolio: https://rachitportfolio.free.nf/?i=1
+* 🌐 Portfolio: https://rachitportfolio.free.nf
 * 📧 Email: [rachitmundapi99@gmail.com](mailto:rachitmundapi99@gmail.com)
 
 ---
