@@ -39,7 +39,7 @@ Building scalable web applications with clean architecture & real-world impact
 
 ### 🗄 Database & Tools
 
-* SQL Server
+* SQL Server(T-SQL, Stored Procedures, Query Optimization)
 * Git & GitHub
 * Postman, Swagger
 * Docker (learning)
